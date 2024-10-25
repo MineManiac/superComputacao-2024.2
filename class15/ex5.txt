@@ -1,0 +1,2 @@
+Processo 3 recebeu a soma total: 10
+Processo 0 inicia com valor 1 e envia soma 1

@@ -1,0 +1,4 @@
+Processo 1 recebeu a mensagem: 100
+Processo 0 enviou a mensagem: 100
+Processo 2 recebeu a mensagem: 100
+Processo 3 recebeu a mensagem: 100

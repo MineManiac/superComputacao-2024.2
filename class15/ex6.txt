@@ -1,0 +1,9 @@
+Processo 0 enviou para o processo 1: Mensagem do processo 0 para o processo 1
+Processo 0 recebeu de 1: Resposta do processo 1 para o processo 0
+Processo 0 enviou para o processo 2: Mensagem do processo 0 para o processo 2
+Processo 0 recebeu de 2: Resposta do processo 2 para o processo 0
+Processo 0 enviou para o processo 3: Mensagem do processo 0 para o processo 3
+Processo 0 recebeu de 3: Resposta do processo 3 para o processo 0
+Processo 1 recebeu: Mensagem do processo 0 para o processo 1
+Processo 2 recebeu: Mensagem do processo 0 para o processo 2
+Processo 3 recebeu: Mensagem do processo 0 para o processo 3

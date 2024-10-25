@@ -1,0 +1,3 @@
+Processo 2 recebeu: 1
+Processo 1 recebeu: 0
+Processo 0 recebeu: 2
